@@ -1,0 +1,12 @@
+{
+  "name": "manage-projects-server",
+  "version": "1.0.0",
+  "description": "Manager to projects and tasks related.",
+  "main": "index.js",
+  "author": "Alexandre Dias <alexandrermd@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^8.9.2",
+    "firebase-functions": "^3.3.0"
+  }
+}
